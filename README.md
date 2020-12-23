@@ -5,6 +5,13 @@
 **Course**: Applied Data Science Minor  
 **Betrokkenen** : Jeroen Vuurren, Tony Andrioli, Gerda in 't Veld,Brian Keijzer en Ruud Vermeij  
 
-##Inhoud
+## Inhoud
+- DataCamp course
+- Reflection & Evaluation
+- Research Project
+- Predictive Analytics
+- Domain Knowledge
+- Data Preprocessing
+- Communication
 
 #
