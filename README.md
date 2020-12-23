@@ -6,12 +6,21 @@
 **Betrokkenen** : Jeroen Vuurren, Tony Andrioli, Gerda in 't Veld,Brian Keijzer en Ruud Vermeij  
 
 ## Inhoud
-- [DataCamp course](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/edit/main/README.md#DataCamp course)
-- Reflection & Evaluation
-- Research Project
-- Predictive Analytics
-- Domain Knowledge
-- Data Preprocessing
-- Communication
+1. DataCamp course
+2. Reflection & Evaluation
+3. Research Project
+4. Predictive Analytics
+5. Domain Knowledge
+6. Data Preprocessing
+7. Communication
 
-## DataCamp course
+## DataCamp Course
+| 1.Introduction To Python| 6.Introduction tot Data Visualisation in Python| 
+|:------------------------:|:------------------------:|
+| 2.Intermediate Python| 7.Manipulating Dataframes With Pandas| 
+| 3.Python Data Science Toolbox(Part 1)| 8.Data Types For Data Science In Python|
+| 4.Python Data Science Toolbox(Part 2)| 9. Cleaning Data In Python|
+| 5.Pandas Foundation|  10.Preprocessing For Machine Learning in Python|
+
+## Reflection & Evaluation
+
