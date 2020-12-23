@@ -6,7 +6,7 @@
 **Betrokkenen** : Jeroen Vuurren, Tony Andrioli, Gerda in 't Veld,Brian Keijzer en Ruud Vermeij  
 
 ## Inhoud
-1. DataCamp course
+1. [DataCamp course](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/1.PNG)
 2. Reflection & Evaluation
 3. Research Project
 4. Predictive Analytics
