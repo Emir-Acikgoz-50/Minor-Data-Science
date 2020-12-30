@@ -25,10 +25,30 @@
 
 ## Reflection Evaluation
 ### *STARR Reflectie op eigen bijdragen van het project*
+Voor het reflecteren op functioneren maak ik gebruik van het ‘ STARR reflectie methode’.
+STARR staat voor ‘Situatie, Taak, Actie, Resultaat en Reflectie’. Binnen de methode wordt er terug gekeken naar wat er heeft afgespeeld en wordt er uiteiendelijk op gereflecteerd. De vragen die naar voren komen bij de methode zijn het volgende; wat was de situatie, wat was mijn taak, wat was mijn actie, tot welke resultaten heeft het geleid en wat heb ik ervan geleerd.  
+
+**Situatie:** 
+Ik en mijn groepsgenoten genaamd George,Idriss,Laurine,Rick en Ismail kregen de opdracht van onze opdrachtgever, Dhr. T. Ottens, om een systeem te ontwikkelen voor PostNL dat het aantal pakketten kan voorspellen voor de volgende dag door middel van Machine learning.
+De aanleiding voor het onderzoek was dat er binnen PostNL geen systeem beschikbaar was om het aantal pakketten te voorspellen, om zo  een efficienter werk omgeving te creeeren.
+Door de uitbraak van het Covid-19 pandemie moesten zowel de studenten als de betrokkenen communiceren via Microsoft Teams.
+
+
+**Taak:**
+Ik en mijn groepsgenoten hadden gezamenlijk één doel, het voorspellen van het aantal pakketten voor de volgende dag voor PostNL. Dat doel wilden we gaan bereiken door onderling goed en efficient samen te gaan werken.
+In eerste instantie heb ik en mijn groep gezamenlijk taken verdeelt over wie wat gaat doen.
+Naast het analyseren van de data had ik twee extra taken.
+Taak 1 was om een voorspelling te creeren door gebruik te maken van Time series, dus welke onderdelen wanneer af moeten en door wie.
+Mijn tweede taak tijdens het project was , door middel van de leiding te nemen, het team te motiveren om productief te blijven en naar een positief resultaat te gaan streven.
+Meestal had ik de rol als leiding, dat is niet vastgesteld door de groep maar na een tijdje samen te hebben gewerkt kwam dat automatisch wel naar voren.
+Dat is zo ontstaan omdat ik meestal het initiatief nam om sommige dingen te gaan doen en ook, nadat we gezamenlijk hadden gebrainstormd, de laatste conclusies trok.
+Doordat ik mezelf als leiding zag verwachtte mijn groep en ik dat ik met de opdrachten op tijd zou zijn, maar meestal haalde ik dat niet en gebeurde het op het laatste moment, daar kwam ik gelukkig wel snel achter en deed meer mijn best om op tijd te zijn.
+
 
 ### *STARR Reflectie op eigen leerdoelen*
 
-### *Evaluatie op het project*
+### *STARR Evaluatie op het gehele project*
+
 
 
 
