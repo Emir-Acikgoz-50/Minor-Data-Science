@@ -7,13 +7,13 @@
 **Betrokken Studenten** : Idriss Bensaga, George Ottens, Ismail Boyuksimsek, Laurine van het Stolpe & Rick Haagens
 
 ## Inhoud
-1. DataCamp Course
-2. Reflection & Evaluation
-3. Research Project
-4. Predictive Analytics
-5. Domain Knowledge
-6. Data Preprocessing
-7. Communication
+1. [DataCamp Course](#datacamp-course)
+2. [Reflection Evaluation](#reflection-evaluation)
+3. [Research Project](#research-project)
+4. [Predictive Analytics](#predictive-analytics)
+5. [Domain Knowledge](#domain-knowledge)
+6. [Data Preprocessing](#data-preprocessing)
+7. [Communication](#communication)
 
 ## DataCamp Course
 | [1.Introduction To Python](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/DataCamp%20Courses/Datacamp%201.PNG)| [6.Introduction tot Data Visualisation in Python](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/DataCamp%20Courses/Datacamp%206.PNG)| 
@@ -23,7 +23,7 @@
 | [4.Python Data Science Toolbox(Part 2)](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/DataCamp%20Courses/Datacamp%204.PNG)| [9. Cleaning Data In Python](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/DataCamp%20Courses/Datacamp%209.PNG)|
 | [5.Pandas Foundation](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/DataCamp%20Courses/Datacamp%205.PNG)|  [10.Preprocessing For Machine Learning in Python](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/DataCamp%20Courses/Datacamp%2010.PNG)|
 
-## Reflection & Evaluation
+## Reflection Evaluation
 ### *STARR Reflectie op eigen bijdragen van het project*
 
 ### *STARR Reflectie op eigen leerdoelen*
