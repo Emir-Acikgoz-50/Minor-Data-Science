@@ -88,7 +88,9 @@ Als een student zijnde binnen dit project heb ik me tot nu toegedragen als een l
 ## Communication
 
 Binnen de Minor hedden we elke week 1 presentatie gehad waarbij we aan de rest van de hele minor lieten zien wat we de laatste week gedaan hadden en de komende week zouden gaan doen.
-Tevens werden er ook presentaties gegeven op sommige vrijdagen aan geintresseerden van buiten de minor. In de gehele Minor heb ik mijn best gedaan om 3 presentaties te voorberreidden voor mijn team, ookal was het niet makkelijk om een presentatie te geven in het engels. De linkjes naar de presentaties volgen hieronder:
+Tevens werden er ook presentaties gegeven op sommige vrijdagen aan geintresseerden van buiten de minor. In de gehele Minor heb ik mijn best gedaan om 3 presentaties te voorberreidden voor mijn team, ookal was het niet makkelijk om een presentatie te geven in het engels. 
+
+De linkjes naar de presentaties volgen hieronder:
 
 | [1. Presentatie Parcel Week 1](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Presentaties%20Parcel/Presentatie%20week%201.pdf)|
 |:------:|
