@@ -91,5 +91,6 @@ Binnen de Minor hedden we elke week 1 presentatie gehad waarbij we aan de rest v
 Tevens werden er ook presentaties gegeven op sommige vrijdagen aan geintresseerden van buiten de minor. In de gehele Minor heb ik mijn best gedaan om 3 presentaties te voorberreidden voor mijn team, ookal was het niet makkelijk om een presentatie te geven in het engels. De linkjes naar de presentaties volgen hieronder:
 
 | [1. Presentatie Parcel Week 1](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Presentaties%20Parcel/Presentatie%20week%201.pdf)|
+|:------:|
 | [2. Presentatie Parcel Week 7](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Presentaties%20Parcel/Presentatie%20week%207.pdf)|
 | [3. Presentatie Parcel Week 12](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Presentaties%20Parcel/Presentatie%20week%2012.pdf)|
