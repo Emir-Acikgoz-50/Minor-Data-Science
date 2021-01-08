@@ -1,4 +1,7 @@
-* Situatie *
+#d
+
+
+Situatie**
 
 Ik en mijn groepsgenoten genaamd George,Idriss,Laurine,Rick en Ismail kregen de opdracht van onze opdrachtgever,T.Ottens , om een systeem te ontwikkelen voor PostNL dat 
 het aantal pakketten kan voorspellen voor de volgende dag door middel van Machine learning.
