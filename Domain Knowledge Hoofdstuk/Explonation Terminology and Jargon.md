@@ -1,6 +1,6 @@
 ## Explonation Terminology and Jargon
 
-Om verwarring te voorkomen met de gebruikte terminologie en vakjargon binnen deze _VERSLAG_ worden deze nader uitgelegd. 
+Om verwarring te voorkomen met de gebruikte vakjargon en terminologie binnen de portfolio worden deze nader uitgelegd. 
 
 ........
 
