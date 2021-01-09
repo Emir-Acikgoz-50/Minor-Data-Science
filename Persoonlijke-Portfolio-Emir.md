@@ -46,7 +46,10 @@ STARR staat voor ‘Situatie, Taak, Actie, Resultaat en Reflectie’. Binnen de 
 
 Binnen dit hoofdstuk wordt het onderwerp van het project nader toegelicht, de gebruikte literatuur wordt gevisualisserd en het gebruikte vakjargon wordt verklaard.
 
-[Domain Knowledge](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/tree/main/Domain%20Knowledge%20Hoofdstuk)
+| [1. Introduction Of The Subjectfield](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Domain%20Knowledge%20Hoofdstuk/Introduction%20of%20the%20subjectfield.md)|
+|:-------:|
+| [2. Literature Research](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Domain%20Knowledge%20Hoofdstuk/Literature%20Research.md)|
+| [3. Explonation Terminology and Jargon](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Domain%20Knowledge%20Hoofdstuk/Explonation%20Terminology%20and%20Jargon.md)|
 
 ## Data Preprocessing
 .....
