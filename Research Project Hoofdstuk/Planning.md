@@ -29,5 +29,15 @@ Zodra er, tijdens de sprint, een of meerdere taken onduidelijk waren, taken niet
 De sprint review & retrospective, vonden plaats aan het eind van een sprint, dus in ons geval elke vrijdag. De sprint review & retrospective zijn normaal gesproken twee aparte activiteiten, maar wij hadden besloten om ze samen te voegen tot één activiteit. Tijdens deze sprint review besproken wij dus eerst wat we deze week hadden opgeleverd. Vervolgens hielden we de retrospective. De retrospective hielden wij door middel van een tool genaamd: “Retro Metro”. Een retrospective omvat het invullen van kaartjes in verschillende categorieën. Er bestaan verschillende soorten templates voor deze categorieën, maar voor de consistentie maakten wij gebruik van de 4 L’s (Liked/Learned/Lacked en Longed for). Zodra de sessie begint, kreeg iedereen 15 minuten de tijd om kaartjes in te vullen in de gegeven categorieën. Zodra de 15 minuten voorbij waren liet iedereen zijn kaartjes zien en gingen we een voor een de kaartjes af en bespreekten we deze.
 
 
+**Planning**
 
 Om de planning aan te duidden hebben we gewerkt met 3 scopes, die het verloop van de periode aanduidden. Ten eerste is er een tijdsschema gecreert, wat elke week herhaald werd, ten tweede zijn de deadlines gevisualiseerd. Ten slotte is een globale planning opgezet om de richting van het project aan te kunnen geven.
+
+De benoemde Retro Spective en Planning is te zien in de volgende linkjes.
+
+| [Retro Spective]()|
+|:----:|
+| [Tijdsschema]()|
+| [Dealines]()|
+| [Globale planning]()|
+
