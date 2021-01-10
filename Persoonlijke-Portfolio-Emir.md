@@ -16,6 +16,10 @@
 7. [Communication](#communication)
 
 ## DataCamp Course
+
+Om kennis op te bouwen op het gebied van programmeren in de taal Python, heb ik gedurende het project meegedaan aan een aantal cursussen. De cursussen waarbij ik mijn certificaten bij heb gehaald zijn hieronder te vinden.
+
+
 | [1.Introduction To Python](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/DataCamp%20Courses/Datacamp%201.PNG)| [6.Introduction tot Data Visualisation in Python](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/DataCamp%20Courses/Datacamp%206.PNG)| 
 |:------------------------:|:------------------------:|
 | [2.Intermediate Python](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/DataCamp%20Courses/Datacamp%202.PNG)| [7.Manipulating Dataframes With Pandas](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/DataCamp%20Courses/Datacamp%207.PNG)| 
