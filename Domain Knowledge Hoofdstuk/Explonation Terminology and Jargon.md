@@ -97,7 +97,8 @@ De variantie van een reeks waarden meet hoe verspreid die waarden zijn. Wiskundi
 
 
  
- Voor het Creeren van dit hoofdstuk is er gebruik gemaakt van de volgende middelen.
+
+**Voor het Creeren van dit hoofdstuk is er gebruik gemaakt van de volgende middelen.**
 
 | [Website 1](https://pythoncursus.nl/machine-learning-begrippen-termen/)|
 |:---------:|
