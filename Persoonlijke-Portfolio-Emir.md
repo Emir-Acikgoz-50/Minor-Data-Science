@@ -55,10 +55,10 @@ Binnen deze Hoofdstuk wordt de opdrachtsomschrijving weergegeven, een evaluatie 
 
 Binnen dit hoofdstuk wordt het onderwerp van het project nader toegelicht, de gebruikte literatuur wordt gevisualisserd en het gebruikte vakjargon wordt verklaard.
 
-| [1. Introduction Of The Subjectfield](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Domain%20Knowledge%20Hoofdstuk/Introduction%20of%20the%20subjectfield.md)|
+| [Introduction Of The Subjectfield](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Domain%20Knowledge%20Hoofdstuk/Introduction%20of%20the%20subjectfield.md)|
 |:-------:|
-| [2. Literature Research](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Domain%20Knowledge%20Hoofdstuk/Literature%20Research.md)|
-| [3. Explonation Terminology and Jargon](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Domain%20Knowledge%20Hoofdstuk/Explonation%20Terminology%20and%20Jargon.md)|
+| [Literature Research](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Domain%20Knowledge%20Hoofdstuk/Literature%20Research.md)|
+| [Explonation Terminology and Jargon](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Domain%20Knowledge%20Hoofdstuk/Explonation%20Terminology%20and%20Jargon.md)|
 
 ## Data Preprocessing
 
@@ -79,7 +79,7 @@ Tevens werden er ook presentaties gegeven op sommige vrijdagen aan geintresseerd
 
 De linkjes naar de presentaties volgen hieronder:
 
-| [1. Presentatie Parcel Week 1](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Presentaties%20Parcel/Presentatie%20week%201.pdf)|
+| [Presentatie Parcel Week 1](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Presentaties%20Parcel/Presentatie%20week%201.pdf)|
 |:------:|
-| [2. Presentatie Parcel Week 7](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Presentaties%20Parcel/Presentatie%20week%207.pdf)|
-| [3. Presentatie Parcel Week 12](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Presentaties%20Parcel/Presentatie%20week%2012.pdf)|
+| [Presentatie Parcel Week 7](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Presentaties%20Parcel/Presentatie%20week%207.pdf)|
+| [Presentatie Parcel Week 12](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Presentaties%20Parcel/Presentatie%20week%2012.pdf)|
