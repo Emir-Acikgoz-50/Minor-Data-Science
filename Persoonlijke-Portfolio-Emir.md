@@ -61,10 +61,16 @@ Binnen dit hoofdstuk wordt het onderwerp van het project nader toegelicht, de ge
 | [3. Explonation Terminology and Jargon](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Domain%20Knowledge%20Hoofdstuk/Explonation%20Terminology%20and%20Jargon.md)|
 
 ## Data Preprocessing
-.....
-.....
-.....
-.....
+
+ja ja ja
+
+| [Data Exploration](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Data%20Preprocessing%20hoofdstuk/Data%20Exploration.md)|
+|:-------:|
+| [Data Cleansing](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Data%20Preprocessing%20hoofdstuk/Data%20Cleansing.md)|
+| [Data Preparation](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Data%20Preprocessing%20hoofdstuk/Data%20Preparation.md)|
+| [Data Explanation](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Data%20Preprocessing%20hoofdstuk/Data%20Explanation.md)|
+| [Data Visualization](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Data%20Preprocessing%20hoofdstuk/Data%20Visualization.md)|
+
 
 ## Communication
 
