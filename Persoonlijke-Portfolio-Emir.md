@@ -31,6 +31,7 @@ Om kennis op te bouwen op het gebied van programmeren in de taal Python, heb ik 
 
 Voor het reflecteren op functioneren maak ik gebruik van het ‘ STARR reflectie methode’.
 STARR staat voor ‘Situatie, Taak, Actie, Resultaat en Reflectie’. Binnen de methode wordt er terug gekeken naar wat er heeft afgespeeld en wordt er uiteiendelijk op gereflecteerd. De vragen die naar voren komen bij de methode zijn het volgende; wat was de situatie, wat was mijn taak, wat was mijn actie, tot welke resultaten heeft het geleid en wat heb ik ervan geleerd.  
+
 In de link hieronder wordt verwezen naar de inhoud het Hoofdstuk Reflectie
 
 | [ Reflection Evaluation](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Reflectie%20hoofdstuk/STAR%20Reflectie.md)|
@@ -39,6 +40,8 @@ In de link hieronder wordt verwezen naar de inhoud het Hoofdstuk Reflectie
 ## Research Project
 
 Binnen deze Hoofdstuk wordt de opdrachtsomschrijving weergegeven, een evaluatie uitgebracht van het project, de conclusie verklaard en tenslotte wordt er verteld hoe de planning voor de gehele periode is ontstaan.
+
+Hieronder de linkjes naar de verschillende hoofdstukken.
 
 | [Task Definition](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Research%20Project%20Hoofdstuk/Task%20Definition.md)|
 |:------:|
@@ -61,6 +64,8 @@ ja ja ja
 
 Binnen dit hoofdstuk wordt het onderwerp van het project nader toegelicht, de gebruikte literatuur wordt gevisualisserd en het gebruikte vakjargon wordt verklaard.
 
+Hieronder de linkjes naar de verschillende hoofdstukken.
+
 | [Introduction Of The Subjectfield](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Domain%20Knowledge%20Hoofdstuk/Introduction%20of%20the%20subjectfield.md)|
 |:-------:|
 | [Literature Research](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Domain%20Knowledge%20Hoofdstuk/Literature%20Research.md)|
@@ -68,7 +73,9 @@ Binnen dit hoofdstuk wordt het onderwerp van het project nader toegelicht, de ge
 
 ## Data Preprocessing
 
-ja ja ja
+Binnen dit hoofdstuk wordt toegelicht wat de Dataset inhoud, hoe het is gevisualliseerd en hoe het uiteindelijke voorbereid is om te gaan modeleren.
+
+Hieronder de linkjes naar de verschillende hoofdstukken.
 
 | [Data Exploration](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Data%20Preprocessing%20hoofdstuk/Data%20Exploration.md)|
 |:-------:|
