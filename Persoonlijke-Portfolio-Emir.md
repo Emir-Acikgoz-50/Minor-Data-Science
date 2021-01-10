@@ -46,10 +46,16 @@ Binnen deze Hoofdstuk wordt de opdrachtsomschrijving weergegeven, een evaluatie 
 | [Conclusion](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Research%20Project%20Hoofdstuk/Conclusion.md)|
 | [Planning](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Research%20Project%20Hoofdstuk/Planning.md)|
 ## Predictive Analytics
-.....
-.....
-.....
-.....
+
+ja ja ja 
+
+| [Selecting a model](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Predictive%20Analytics%20Hoofdstuk/Selecting%20a%20model.md)|
+|:----:|
+| [Configuring a model](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Predictive%20Analytics%20Hoofdstuk/Configuring%20a%20model.md)|
+| [Training a model](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Predictive%20Analytics%20Hoofdstuk/Training%20a%20model.md)|
+| [Evaluating a model](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Predictive%20Analytics%20Hoofdstuk/Evaluating%20a%20model.md)|
+| [Visualizing the outcome of a model](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Predictive%20Analytics%20Hoofdstuk/Visualizing%20the%20outcome%20of%20a%20model.md)|
+
 
 ## Domain Knowledge
 
