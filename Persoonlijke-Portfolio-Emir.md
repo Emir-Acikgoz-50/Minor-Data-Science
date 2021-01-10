@@ -34,11 +34,11 @@ STARR staat voor ‘Situatie, Taak, Actie, Resultaat en Reflectie’. Binnen de 
 
 Binnen deze Hoofdstuk wordt de opdrachtsomschrijving weergegeven, een evaluatie uitgebracht van het project, de conclusie verklaard en tenslotte wordt er verteld hoe de planning voor de gehele periode is ontstaan.
 
-| [Task Definition]()|
+| [Task Definition](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Research%20Project%20Hoofdstuk/Task%20Definition.md)|
 |:------:|
-| [Evaluation]()|
-| [Conclusion]()|
-| [Planning]()|
+| [Evaluation](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Research%20Project%20Hoofdstuk/Evaluation.md)|
+| [Conclusion](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Research%20Project%20Hoofdstuk/Conclusion.md)|
+| [Planning](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Research%20Project%20Hoofdstuk/Planning.md)|
 ## Predictive Analytics
 .....
 .....
