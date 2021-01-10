@@ -39,7 +39,7 @@ De benoemde Retro Spective, Trellobord en Planning is te zien in de volgende lin
 
 | [Retro Spective]()|
 |:----:|
-| |[Trellobord]()|
+| [Trellobord]()|
 | [Tijdsschema]()|
 | [Dealines]()|
 | [Globale planning]()|
