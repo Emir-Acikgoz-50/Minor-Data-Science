@@ -1,6 +1,9 @@
 ## Explonation Terminology and Jargon
 
-Om verwarring te voorkomen met de gebruikte vakjargon en terminologie binnen de portfolio worden deze nader uitgelegd. 
+Om verwarring te voorkomen met de gebruikte vakjargon en terminologie binnen de portfolio worden deze nader uitgelegd.
+
+
+
 
 * Data Science
 
@@ -94,6 +97,12 @@ De variantie van een reeks waarden meet hoe verspreid die waarden zijn. Wiskundi
 
 
  
+ Voor het Creeren van dit hoofdstuk is er gebruik gemaakt van de volgende middelen.
+
+| [Website 1](https://pythoncursus.nl/machine-learning-begrippen-termen/)|
+|:---------:|
+| [Website 2](https://www.springboard.com/blog/data-science-terms/#:~:text=At%20its%20essence%2C%20data%20science,%2C%20data%20mining%2C%20and%20programming.)|
+| [Website 3](https://www.dataquest.io/blog/data-science-glossary/)|
  
 
 
