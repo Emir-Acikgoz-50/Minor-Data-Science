@@ -1,5 +1,7 @@
 ## Planning
 
+**Links aanvullen**
+
 
 Aan het begin van de periode hebben we gezamenlijk met de groep samen gezeten en een planning gemaakt over de gehele periode.
 Omdat we gestructureerd wilden gaan werken hebben we er voor gekozen om volgens de Scrum Methode te werken.
@@ -33,10 +35,11 @@ De sprint review & retrospective, vonden plaats aan het eind van een sprint, dus
 
 Om de planning aan te duidden hebben we gewerkt met 3 scopes, die het verloop van de periode aanduidden. Ten eerste is er een tijdsschema gecreert, wat elke week herhaald werd, ten tweede zijn de deadlines gevisualiseerd. Ten slotte is een globale planning opgezet om de richting van het project aan te kunnen geven.
 
-De benoemde Retro Spective en Planning is te zien in de volgende linkjes.
+De benoemde Retro Spective, Trellobord en Planning is te zien in de volgende linkjes.
 
 | [Retro Spective]()|
 |:----:|
+| |[Trellobord]()|
 | [Tijdsschema]()|
 | [Dealines]()|
 | [Globale planning]()|
