@@ -1,1 +1,5 @@
+## Data Exploration
 
+
+Het bestand hebben we van onze opdrachtgever gekregen als een [Excel]() bestand, alle informatie was netjes ingevoerd dus hoefde ik niets te veranderen aan de dataset.
+Uiteindelijk heb ik dit bestand uitgezet in een [plot](). Omdat het een bestand was met 300 verschillende klanten en meer dan 500.000 aan rijen over een periode van 6 jaar, zag ik  door de bomen het bos niet meer. Naast dat alle lijnen over elkaar heen gingen waren er ook vele uitschieters en null waardes aanwezig. Dezelfde Visualisatie hadden meerdere personen in de groep, uiteindelijk besloten we om de data te splitsen in jaren en hier [plots]() over gemaakt. Dat bleek ook geen succes met vele uitschieters en null waardes, dus was het verstandig om te focussen op de data van 1 klant over de gehele periode van 2015-2020. Elke groepslid had zijn eigen klant vergregen door willekeurig een getal te kiezen, ik heb me vervolgens gefocust op klant 266. Doordat iedereen zich focust op verschillende klanten kunnen we aan het eind van het project de klanten met elkaar vergelijken.
