@@ -96,3 +96,5 @@ De linkjes naar de presentaties volgen hieronder:
 |:------:|
 | [Presentatie Parcel Week 7](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Presentaties%20Parcel/Presentatie%20week%207.pdf)|
 | [Presentatie Parcel Week 12](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Presentaties%20Parcel/Presentatie%20week%2012.pdf)|
+
+
