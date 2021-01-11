@@ -15,7 +15,7 @@ q staat voor: Hoeveel orders er van een Moving Average methode worden gebruikt
 
 Omdat er geen specifieke berekening is om de juiste configuratie te kiezen is er constant gespeeld met de getallen en is er gekozen om de volgende parameters te gebruiken omdat deze het beste resultaat leverden.
 
-AR: AR(train_data)
-ARMA: ARMA(train_data, 9, 10)
-ARIMA: ARIMA(train_data, 1, 1, 0)
-SARIMA: SARIMAX(train_data, 0, 1 , 1, 12)
+* AR: AR(train_data)
+* ARMA: ARMA(train_data, 9, 10)
+* ARIMA: ARIMA(train_data, 1, 1, 0)
+* SARIMA: SARIMAX(train_data, 0, 1 , 1, 12)
