@@ -9,3 +9,5 @@ De Trainingset van 80% over de periode 2016-01-01 - 2018-01-01 geldt voor alle v
 * ARMA: `ARMA(train_data, AR, MA)`
 * ARIMA: `ARIMA(train_data, AR, I, MA)`
 * SARIMA: `SARIMAX(train_data, AR, I , MA, s)`
+
+
