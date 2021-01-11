@@ -2,13 +2,13 @@
 
 **stationair uitleggen in jargon**
 
-Binnen het TimeSerie model hebben we gefocut op vier verschillende methodes, maar om ook echt te weten op welke methode onze dataset past hebben we ze allemaal geconfigureerd en gevisualisseerd. Eerst begonnen we met een Simpel [Auto Regressive(AR)]() methode, vervolgens hebben we de Moving Average erbij gehaald [ARMA](), na deze methode hebben we het stationair gemaakt met het wel bekende [ARIMA]() methode, ten slotte werd het [SARIMA]() methode onder de loep genomen. Een verkeerde configuratie kan leiden tot verkeerde voorspellingen in de toekomst. Tijdens het configureren dient er reken gehouden te worden met de elementen p,d en q, deze elementen dienen toegepast te worden op de methode.
+Binnen het TimeSerie model hebben we gefocut op vier verschillende methodes.Eerst begonnen we met een Simpel [Auto Regressive(AR)]() methode, vervolgens hebben we het uitgebreid met een Moving Average [ARMA](), daarna hebben we het model stationair gemaakt met het wel bekende [ARIMA]() methode, ten slotte zijn we begonnen aan het [SARIMA]() methode en die is zo goed mogelijk geconfigureerd. Tijdens het configureren dient er reken gehouden te worden met de elementen P,D & Q deze elementen dienen toegepast te worden op de methode.
 
- *voorbeeld `ARIMA(train_data, (pdq))`*
+ *voorbeeld `SARIMA(train_data, (PDQs))`*
  
-* p staat voor: Hoeveel orders er van een Auto Regressive methode wordt gebruikt
-* d staat voor: Hoeveel orders er stationair worden gemaakt
-* q staat voor: Hoeveel orders er van een Moving Average methode worden gebruikt
+* P staat voor: Hoeveel orders er van een Auto Regressive methode wordt gebruikt
+* D staat voor: Hoeveel orders er stationair worden gemaakt
+* Q staat voor: Hoeveel orders er van een Moving Average methode worden gebruikt
 
 * Voor de AR methode wordt er niet gebruik gemaakt van de elementen
 * Voor de MA methode worden alleen de elementen p en q gebruik gemaakt
