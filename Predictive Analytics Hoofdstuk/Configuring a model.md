@@ -9,12 +9,14 @@ Binnen het TimeSerie model hebben we gefocut op vier verschillende methodes.Eers
 * P staat voor: Hoeveel orders er van een Auto Regressive methode wordt gebruikt
 * D staat voor: Hoeveel orders er stationair worden gemaakt
 * Q staat voor: Hoeveel orders er van een Moving Average methode worden gebruikt
+* s staat voor: Geeft de lengte van de seizoenen aan( 12 is in dit geval een hele jaar)
+
 
 * Voor de AR methode wordt er niet gebruik gemaakt van de elementen
 * Voor de MA methode worden alleen de elementen p en q gebruik gemaakt
 * Voor de SARIMA methode komt er juist nog een s bij om een seizoen aan te geven.
 
-Omdat er geen specifieke berekening is om de juiste configuratie te kiezen is er constant gespeeld met de getallen en is er gekozen om de volgende parameters te tunen en te gebruiken omdat deze het beste resultaat leverden.
+Omdat er geen specifieke berekening is om de juiste configuratie te kiezen is er constant gespeeld met de getallen en is er gekozen om de volgende parameters te tunen en te gebruiken omdat deze de beste resultaten leverden.
 
 * AR: `AR(train_data)`
 * ARMA: `ARMA(train_data, 9, 10)`
