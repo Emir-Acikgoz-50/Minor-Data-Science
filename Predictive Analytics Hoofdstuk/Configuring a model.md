@@ -13,7 +13,9 @@ q staat voor: Hoeveel orders er van een Moving Average methode worden gebruikt
 * Voor de MA methode worden alleen de elementen p en q gebruik gemaakt
 * Voor de SARIMA methode komt er juist nog een s bij om een seizoen aan te geven.
 
-Omdat er geen specifieke berekening is om de juiste configuratie te kiezen is er constant gespeeld met de getallen en is er gekozen om de volgende configuraties te kiezen
+Omdat er geen specifieke berekening is om de juiste configuratie te kiezen is er constant gespeeld met de getallen en is er gekozen om de volgende parameters te gebruiken omdat deze het beste resultaat leverden.
 
-
-Om vervolgens de juiste methode te kiezen dient het model [geevalueert]() te worden.
+AR: AR(train_data)
+ARMA: ARMA(train_data, 9, 10)
+ARIMA: ARIMA(train_data, 1, 1, 0)
+SARIMA: SARIMAX(train_data, 0, 1 , 1, 12)
