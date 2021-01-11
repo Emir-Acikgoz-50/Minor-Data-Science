@@ -14,3 +14,4 @@ Omdat er uiteindelijk een SARIMA model uitgewerkt diende te worden, hebben we al
 
 
 
+
