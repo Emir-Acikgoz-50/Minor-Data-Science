@@ -22,3 +22,4 @@ Omdat er geen specifieke berekening is om de juiste configuratie te kiezen is er
 * ARMA: `ARMA(train_data, 9, 10)`
 * ARIMA: `ARIMA(train_data, 1, 1, 0)`
 * SARIMA: `SARIMAX(train_data, 0, 1 , 1, 12)`
+
