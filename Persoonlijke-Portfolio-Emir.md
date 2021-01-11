@@ -100,6 +100,7 @@ De linkjes naar de presentaties volgen hieronder:
 **Paper**
 In dit hoofdstuk wordt er gekeken naar de taken die ik voor het paper heb moeten doen.
 
-[Paper]()
+|[Paper]()|
+|:-------:|
 
 
