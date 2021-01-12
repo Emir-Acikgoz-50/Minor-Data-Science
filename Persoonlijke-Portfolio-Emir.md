@@ -107,3 +107,9 @@ In dit hoofdstuk wordt er gekeken naar de taken die ik voor het paper heb uitgev
 |:-------:|
 
 
+**Extra bewijs zelf gemaakte codes voor het onderzoek**
+
+|[Notebook codes](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/tree/main/Notebook%20Codes)|
+|:-------:|
+
+
