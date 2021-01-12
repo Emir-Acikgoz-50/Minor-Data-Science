@@ -103,7 +103,7 @@ De linkjes naar de presentaties volgen hieronder:
 **Paper**
 In dit hoofdstuk wordt er gekeken naar de taken die ik voor het paper heb uitgevoerd.
 
-|[Paper]()|
+|[Paper](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Presentaties%20Parcel/Taken%20Paper.md)|
 |:-------:|
 
 
