@@ -1,4 +1,4 @@
-# Minor-Data-Science Personal Portfolio
+# Minor- Data Science Personal Portfolio
 
 **Student Naam** : Emir Acikgoz  
 **Student Nummer** : 18112013  
