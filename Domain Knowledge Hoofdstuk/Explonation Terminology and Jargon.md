@@ -103,6 +103,9 @@ RMSE is een maatstaf voor hoe verspreid de punten zijn. Met andere woorden, het 
 
 Tijdreeksen met trends of met seizoenen, zijn niet stationair -de trend en seizoensinvloeden zullen de waarde van de tijdreeksen op verschillende tijdstippen beïnvloeden. Daarom wordt een model stationair gemaakt
 
+* R2
+
+R-kwadraat (R2) is een statistische maat die de proportie van de variantie voor een afhankelijke variabele vertegenwoordigt die wordt verklaard door een onafhankelijke variabele of variabelen in een regressiemodel.
 
 
  
