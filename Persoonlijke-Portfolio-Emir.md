@@ -7,7 +7,11 @@
 **Betrokken Docenten** : Jeroen Vuurren, Tony Andrioli, Gerda in 't Veld,Brian Keijzer & Ruud Vermeij  
 **Betrokken Studenten** : Idriss Bensaga, George Ottens, Ismail Boyuksimsek, Laurine van het Stolpe & Rick Haagens
 
+## Introductie
 
+Dit is een Persoonlijke Portfolio opgezet naar aanleiding van het Applied Data Science project.
+Er is geprobeerd door middel van bestaande data voorspellingen te maken voor in de toekomst, hoe het proces is verlopen en wat er is gedaan wordt
+in dit document nader toegelicht voor geïnteresseerden.
 
 ## Inhoud
 1. [DataCamp Course](#datacamp-course)
