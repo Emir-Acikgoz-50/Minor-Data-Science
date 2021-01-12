@@ -17,7 +17,7 @@
 
 ## DataCamp Course
 
-Om kennis op te bouwen op het gebied van programmeren in de taal Python, heb ik gedurende het project meegedaan aan een aantal cursussen. De cursussen waarbij ik mijn certificaten bij heb gehaald zijn hieronder te vinden.
+Om kennis op te bouwen op het gebied van programmeren in de taal Python, heb ik gedurende het project meegedaan aan een aantal cursussen. De cursussen waar ik mijn certificaten bij heb gehaald zijn hieronder te vinden.
 
 
 | [1.Introduction To Python](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/DataCamp%20Courses/Datacamp%201.PNG)| [6.Introduction tot Data Visualisation in Python](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/DataCamp%20Courses/Datacamp%206.PNG)| 
@@ -29,8 +29,8 @@ Om kennis op te bouwen op het gebied van programmeren in de taal Python, heb ik 
 
 ## Reflection Evaluation
 
-Voor het reflecteren op functioneren maak ik gebruik van het ‘ STARR reflectie methode’.
-STARR staat voor ‘Situatie, Taak, Actie, Resultaat en Reflectie’. Binnen de methode wordt er terug gekeken naar wat er heeft afgespeeld en wordt er uiteiendelijk op gereflecteerd. De vragen die naar voren komen bij de methode zijn het volgende; wat was de situatie, wat was mijn taak, wat was mijn actie, tot welke resultaten heeft het geleid en wat heb ik ervan geleerd.  
+Voor het reflecteren op functioneren is er gebruik gemaakt van het ‘ STARR reflectie methode’.
+STARR staat voor ‘Situatie, Taak, Actie, Resultaat en Reflectie’. Binnen de methode wordt er terug gekeken naar wat er heeft afgespeeld en wordt er uiteiendelijk op gereflecteerd. Binnen het bestand wordt gekeken en gereflecteerd naar eigen inzet, leerdoelen en evealuatie op het groepsproject.
 
 In de link hieronder wordt verwezen naar de inhoud het Hoofdstuk Reflectie
 
@@ -39,9 +39,9 @@ In de link hieronder wordt verwezen naar de inhoud het Hoofdstuk Reflectie
 
 ## Research Project
 
-Binnen deze Hoofdstuk wordt de opdrachtsomschrijving weergegeven, een evaluatie uitgebracht van het project, de conclusie verklaard en tenslotte wordt er verteld hoe de planning voor de gehele periode is ontstaan.
+Binnen deze Hoofdstuk wordt de opdrachtsomschrijving weergegeven, een evaluatie uitgebracht van het project, de conclusie verklaard en tenslotte wordt er gekeken hoe de planning voor de gehele periode is ontstaan.
 
-Hieronder de linkjes naar de verschillende hoofdstukken.
+Hieronder de linkjes naar de verschillende sub-hoofdstukken.
 
 | [Task Definition](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Research%20Project%20Hoofdstuk/Task%20Definition.md)|
 |:------:|
@@ -50,7 +50,9 @@ Hieronder de linkjes naar de verschillende hoofdstukken.
 | [Planning](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Research%20Project%20Hoofdstuk/Planning.md)|
 ## Predictive Analytics
 
-ja ja ja 
+In dit Hoofdstuk wordt nader toegelicht hoe het uiteindelijke model tot stand is gebracht.
+
+Hieronder de linkjes naar de verschillende sub-hoofdstukken.
 
 | [Selecting a model](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Predictive%20Analytics%20Hoofdstuk/Selecting%20a%20model.md)|
 |:----:|
@@ -64,7 +66,7 @@ ja ja ja
 
 Binnen dit hoofdstuk wordt het onderwerp van het project nader toegelicht, de gebruikte literatuur wordt gevisualisserd en het gebruikte vakjargon wordt verklaard.
 
-Hieronder de linkjes naar de verschillende hoofdstukken.
+Hieronder de linkjes naar de verschillende sub-hoofdstukken.
 
 | [Introduction Of The Subjectfield](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Domain%20Knowledge%20Hoofdstuk/Introduction%20of%20the%20subjectfield.md)|
 |:-------:|
@@ -73,9 +75,9 @@ Hieronder de linkjes naar de verschillende hoofdstukken.
 
 ## Data Preprocessing
 
-Binnen dit hoofdstuk wordt toegelicht wat de Dataset inhoud, hoe het is gevisualliseerd en hoe het uiteindelijke voorbereid is om te gaan modeleren.
+Binnen dit hoofdstuk wordt toegelicht wat de dataset inhoud, hoe het is gevisualliseerd en hoe het uiteindelijke is voorbereid om te gaan modelleren.
 
-Hieronder de linkjes naar de verschillende hoofdstukken.
+Hieronder de linkjes naar de verschillende sub-hoofdstukken.
 
 | [Data Exploration](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Data%20Preprocessing%20hoofdstuk/Data%20Exploration.md)|
 |:-------:|
@@ -87,8 +89,9 @@ Hieronder de linkjes naar de verschillende hoofdstukken.
 
 ## Communication
 
-Binnen de Minor hebben we elke week 1 presentatie gehad waarbij we aan de rest van de hele minor lieten zien wat we de laatste week gedaan hadden en de komende week zouden gaan doen.
-Tevens werden er ook presentaties gegeven op sommige vrijdagen aan geintresseerden van buiten de minor. In de gehele Minor heb ik mijn best gedaan om 3 presentaties te voorberreidden voor mijn team, ookal was het niet makkelijk om een presentatie te geven in het engels. 
+Binnen de Minor is er eens per weer een presentatie geweest waarbij de gehele minor in het proces werdt meegenomen. Bij de presentaties ging het erom wat de groep de laatste week gedaan had en de komende week zou gaan doen.
+
+Tevens werden er ook presentaties gegeven op vrijdagen(eens per vier weken) aan geïnteresseerden van buiten de minor. In de gehele Minor heb ik mijn best gedaan om 3 presentaties te voorberreidden voor mijn team, ookal was het niet makkelijk om een presentatie te geven in het engels. 
 
 De linkjes naar de presentaties volgen hieronder:
 
@@ -98,7 +101,7 @@ De linkjes naar de presentaties volgen hieronder:
 | [Presentatie Parcel Week 12](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Presentaties%20Parcel/Presentatie%20week%2012.pdf)|
 
 **Paper**
-In dit hoofdstuk wordt er gekeken naar de taken die ik voor het paper heb moeten doen.
+In dit hoofdstuk wordt er gekeken naar de taken die ik voor het paper heb uitgevoerd.
 
 |[Paper]()|
 |:-------:|
