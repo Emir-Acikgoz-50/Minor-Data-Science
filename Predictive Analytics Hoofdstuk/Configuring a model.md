@@ -1,6 +1,5 @@
 ## Configuring a model
 
-**stationair uitleggen in jargon**
 
 Binnen het TimeSerie model hebben we gefocut op vier verschillende methodes.Eerst begonnen we met een Simpel [Auto Regressive(AR)](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Notebook%20Codes/AR%20Model%20Klant%20266.ipynb) methode, vervolgens hebben we het uitgebreid met een Moving Average [ARMA](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Notebook%20Codes/ARMA%20Model%20Klant%20266.ipynb), daarna hebben we het model stationair gemaakt met het wel bekende [ARIMA](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Notebook%20Codes/Arima%20KLOPT%20100%25%20met%20zelf%20voorspelde%20eind.ipynb) methode, ten slotte zijn we begonnen aan het [SARIMA](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Notebook%20Codes/SARIMA_model_klant_266_rolling_window_verschil.ipynb) methode en die is zo goed mogelijk geconfigureerd. Tijdens het configureren dient er reken gehouden te worden met de elementen P,D & Q deze elementen dienen toegepast te worden op de methode.
 
