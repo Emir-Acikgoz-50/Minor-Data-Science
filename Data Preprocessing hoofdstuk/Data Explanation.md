@@ -21,4 +21,4 @@ Voor het uitvoeren en ontwikkelen van het project hebben wij gebruik gemaakt van
 
  
 
-Al deze informatie weergeven een totale van meer dan 500.000 rijen aan data.Tevens worden de klanten in de dataset weergegeven als ID nummer, dit om de privacy van de organisaties te beschermen waarvan de informatie beschikbaar is. 
+Al deze informatie weergeven een totale van meer dan 500.000 rijen aan data. Tevens worden de klanten in de dataset weergegeven als ID nummer, dit om de privacy van de organisaties te beschermen waarvan de informatie beschikbaar is. 
