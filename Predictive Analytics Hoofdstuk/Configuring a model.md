@@ -11,6 +11,8 @@ Binnen het TimeSerie model hebben we gefocust op vier verschillende methodes. Ee
 * s staat voor: Geeft de lengte van de seizoenen aan( 12 is in dit geval een hele jaar)
 
 
+
+
 * Voor de AR methode wordt er niet gebruik gemaakt van de elementen
 * Voor de MA methode worden alleen de elementen p en q gebruik gemaakt
 * Voor de SARIMA methode komt er juist nog een s bij om een seizoen aan te geven.
