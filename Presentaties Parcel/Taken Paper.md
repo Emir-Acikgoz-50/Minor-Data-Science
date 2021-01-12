@@ -1,6 +1,6 @@
 ## Taken binnen het Paper
 
-Voor de afsluiting van dit project dient er een wetenschappelijke artikel geschreven te worden. Binnen dit paper wordt er besproken hoe het probleem is aangepakt, wat de resultaten waren en de conclusies die zijn getrokken.
+Voor de afsluiting van dit project dient er een wetenschappelijke paper geschreven te worden. Binnen dit paper wordt er besproken hoe het probleem is aangepakt, wat de resultaten waren en welke conclusies zijn getrokken.
 
 Ik had 4 Taken die ik moet afronden voor het paper.
 
