@@ -109,7 +109,7 @@ In dit hoofdstuk wordt er gekeken naar de taken die ik voor het paper heb uitgev
 
 ## Extra bewijs 
 
-De link wordt verwezen naar alle code's die zijn uitgevoerd voor dit project
+De link wordt verwezen naar alle code's die door mij zijn uitgevoerd voor dit project
 
 |[Notebook codes](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/tree/main/Notebook%20Codes)|
 |:-------:|
