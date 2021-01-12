@@ -1,6 +1,5 @@
 ## Planning
 
-**Links aanvullen**
 
 
 Aan het begin van de periode hebben we gezamenlijk met de groep samen gezeten en een planning gemaakt over de gehele periode.
