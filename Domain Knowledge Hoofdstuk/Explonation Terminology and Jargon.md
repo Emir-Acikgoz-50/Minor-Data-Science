@@ -95,6 +95,15 @@ Een berekening die ons een idee geeft van een "typische" waarde voor een groep g
 
 De variantie van een reeks waarden meet hoe verspreid die waarden zijn. Wiskundig gezien is het, het gemiddelde verschil tussen individuele waarden en het gemiddelde voor de reeks waarden. De wortel kwadraat van de variatie voor een set geeft ons de standaarddeviatie, die beter bruikbaar is.
 
+* Root Mean Squared Error(RMSE)
+
+RMSE is een maatstaf voor hoe verspreid de punten zijn. Met andere woorden, het vertelt  hoe geconcentreerd de gegevens zijn rond de best passende lijn.
+
+* Stationair
+
+Tijdreeksen met trends of met seizoenen, zijn niet stationair -de trend en seizoensinvloeden zullen de waarde van de tijdreeksen op verschillende tijdstippen beïnvloeden. Daarom wordt een model stationair gemaakt
+
+
 
  
 
