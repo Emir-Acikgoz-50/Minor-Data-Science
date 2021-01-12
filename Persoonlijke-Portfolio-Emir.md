@@ -3,6 +3,7 @@
 **Student Naam** : Emir Acikgoz  
 **Student Nummer** : 18112013  
 **Groep** : Parcel Groep
+
 **Course**: Applied Data Science Minor  
 **Betrokken Docenten** : Jeroen Vuurren, Tony Andrioli, Gerda in 't Veld,Brian Keijzer & Ruud Vermeij  
 **Betrokken Studenten** : Idriss Bensaga, George Ottens, Ismail Boyuksimsek, Laurine van het Stolpe & Rick Haagens
