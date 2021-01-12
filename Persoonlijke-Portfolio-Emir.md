@@ -7,11 +7,7 @@
 **Betrokken Docenten** : Jeroen Vuurren, Tony Andrioli, Gerda in 't Veld,Brian Keijzer & Ruud Vermeij  
 **Betrokken Studenten** : Idriss Bensaga, George Ottens, Ismail Boyuksimsek, Laurine van het Stolpe & Rick Haagens
 
-## Introductie
 
-Dit is mijn persoonlijk portfolio ,opgezet voor het Data Science project op de Haagse Hoge school.
-In dit portfolio zou ik de lezer graag mee willen nemen van het begin tot het eind van dit  project.
-In dit Portfolio wordt 
 
 ## Inhoud
 1. [DataCamp Course](#datacamp-course)
