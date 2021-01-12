@@ -37,10 +37,10 @@ Om de planning aan te duidden hebben we gewerkt met 3 scopes, die het verloop va
 
 De benoemde Retro Spective, Trellobord en Planning is te zien in de volgende linkjes.
 
-| [Retro Spective]()|
+| [Retro Spective](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Screenshots%20Overig/RETRO%20METRO.PNG)|
 |:----:|
-| [Trellobord]()|
-| [Tijdsschema]()|
-| [Dealines]()|
-| [Globale planning]()|
+| [Trellobord](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Screenshots%20Overig/trello.PNG)|
+| [Tijdsschema](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Screenshots%20Overig/tijdsschema.PNG)|
+| [Dealines](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Screenshots%20Overig/dealines.PNG)|
+| [Globale planning](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Screenshots%20Overig/globale%20planning.PNG)|
 
