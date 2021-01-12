@@ -2,9 +2,16 @@
 
 **Student Naam** : Emir Acikgoz  
 **Student Nummer** : 18112013  
+**Groep** : Parcel Groep
 **Course**: Applied Data Science Minor  
 **Betrokken Docenten** : Jeroen Vuurren, Tony Andrioli, Gerda in 't Veld,Brian Keijzer & Ruud Vermeij  
 **Betrokken Studenten** : Idriss Bensaga, George Ottens, Ismail Boyuksimsek, Laurine van het Stolpe & Rick Haagens
+
+## Introductie
+
+Dit is mijn persoonlijk portfolio ,opgezet voor het Data Science project op de Haagse Hoge school.
+In dit portfolio zou ik de lezer graag mee willen nemen van het begin tot het eind van dit  project.
+In dit Portfolio wordt 
 
 ## Inhoud
 1. [DataCamp Course](#datacamp-course)
@@ -20,7 +27,7 @@
 Om kennis op te bouwen op het gebied van programmeren in de taal Python, heb ik gedurende het project meegedaan aan een aantal cursussen. De cursussen waar ik mijn certificaten bij heb gehaald zijn hieronder te vinden.
 
 
-| [1.Introduction To Python](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/DataCamp%20Courses/Datacamp%201.PNG)| [6.Introduction tot Data Visualisation in Python](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/DataCamp%20Courses/Datacamp%206.PNG)| 
+| [1.Introduction To Python]()| [6.Introduction tot Data Visualisation in Python](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/DataCamp%20Courses/Datacamp%206.PNG)| 
 |:------------------------:|:------------------------:|
 | [2.Intermediate Python](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/DataCamp%20Courses/Datacamp%202.PNG)| [7.Manipulating Dataframes With Pandas](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/DataCamp%20Courses/Datacamp%207.PNG)| 
 | [3.Python Data Science Toolbox(Part 1)](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/DataCamp%20Courses/Datacamp%203.PNG)| [8.Data Types For Data Science In Python](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/DataCamp%20Courses/Datacamp%208.PNG)|
