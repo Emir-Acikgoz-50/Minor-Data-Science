@@ -1,7 +1,7 @@
 ## Data Explanation
 
 
-Voor het uitvoeren en ontwikkelen van het project hebben wij gebruik gemaakt van een dataset in een [Excel]() bestand met daarin kolommen met de volgende gegevens: 
+Voor het uitvoeren en ontwikkelen van het project hebben wij gebruik gemaakt van een dataset in een [Excel bestand](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Notebook%20Bewijzen/excel%20bestand.PNG) met daarin kolommen met de volgende gegevens: 
 
 **Procesdag**
 
