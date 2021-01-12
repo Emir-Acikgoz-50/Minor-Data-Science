@@ -1,3 +1,3 @@
 ## Visualizing the outcome of the model
 
-hier kort vertellen over de model en plaatje bij zetten
+De [uiteindelijk visualisatie]() van het model, is te zien op de link. Ook is de [code]() die er bij hoort te zien
