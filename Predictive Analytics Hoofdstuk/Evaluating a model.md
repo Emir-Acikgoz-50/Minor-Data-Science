@@ -6,5 +6,5 @@ Maar als er naar de [visualisatie](https://github.com/Emir-Acikgoz-50/Minor-Data
 
 Uiteindlijk heb ik dit besproken met de opdrachtgever en gaf hij de getrokken conclusie gelijk tevens vondt hij het niet erg dat de pieken niet meegenomen werden, omdat klanten van tevoren aangeven dat er extra vracht nodig is. Wel vond de opdrachtgever het belangrijk dat de rest van de voorspelling netjes was met een lage RMSE.
 
-Zoals eerder vermeld in het hoofdstuk [Selecting a model]() heb ik eerst de andere methodes onder de loep genomen(AR, MA, ARMA, ARIMA) om uiteindelijk bij het SARIMA model te komen. Doordat de andere methodes seizoenen en trends niet ondersteunden heb ik ze niet geevalueerd met een RMSE score. Echter heb ik hier achteraf spijt van kreeg, omdat ik dan de verschillende methodes met elkaar kon vergelijken.
+Zoals eerder vermeld in het hoofdstuk [Selecting a model](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Predictive%20Analytics%20Hoofdstuk/Selecting%20a%20model.md) heb ik eerst de andere methodes onder de loep genomen(AR, MA, ARMA, ARIMA) om uiteindelijk bij het SARIMA model te komen. Doordat de andere methodes seizoenen en trends niet ondersteunden heb ik ze niet geevalueerd met een RMSE score. Echter heb ik hier achteraf spijt van kreeg, omdat ik dan de verschillende methodes met elkaar kon vergelijken.
 
