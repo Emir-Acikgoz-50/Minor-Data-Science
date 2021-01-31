@@ -1,6 +1,6 @@
 ## Evaluating a model
 
-Zoals eerder vermeld heb ik eerst de andere methodes onder de loep genomen(AR, MA, ARMA, ARIMA)
+Zoals eerder vermeld in het hoofdstuk [Selecting a model]() heb ik eerst de andere methodes onder de loep genomen(AR, MA, ARMA, ARIMA) om uiteindelijk bij het SARIMA model te komen.
 
 Om het model te kunnen evalueren heb ik gebruik gemaakt van de '[Rolling window](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Notebook%20Bewijzen/Code%20rolling%20window.PNG)' cross validatie techniek. Bij deze techniek is de validatie niet altijd op een gelijke punt, maar verschuift het telkens. Bij het uitvoeren van de techniek heb ik er voor gekozen om binnen de periode 2018-01-01 - 2019-01-01 de rolling window toe te passen. Hierbij wordt de training verlengd, dat wil zeggen dat er tot gisteren wordt getraind en voor morgen de validatie en test set van pas komt.
 
