@@ -12,11 +12,11 @@ Een Scrum Methode is onderverdeeld in een aantal activiteiten. Binnen de groep i
 
 **Daily Standup**
 
-We zijn doordeweeks elke dag om 9:30uur met de daily stand-up begonnen. Hierbij heeft iedereen verteld, wat hij of zij de dag ervoor heeft gedaan, wat diegene vandaag gaat doen en/of diegene tegen problemen aanloopt. Het doel van een stand-up is om in kaart te brengen waar iedereen mee bezig is en/of er blokkades zijn die de uitvoering van een taak belemmeren.
+Ik heb doordeweeks elke dag om 9:30uur met de daily stand-up meegedaan. Tijdens dit groeps gesprek heb ik aan de rest van de groep verteld; wat ik de dag ervoor heb gedaan aan het project ,of ik tegen problemen aanliep en wat ik die dag zou gaan doen voor het project. Met dit project heb ik voor het eerst een daily stand-up meegemaakt, toch vond ik het een zeer belangrijk in de voortgang van het project. Ik kreeg inzicht in waar de rest mee bezig was tevens werdt ik ook snel geholpen met de problemen waar ik tegen aan liep. Dit is zeker een werkwijze die ik in de vervolg voor andere projecten wil gaan gebruiken.
 
 **Sprint Planning**
 
-De sprint planning is gebeurt aan het begin van elke sprint, elke week, en is bedoeld om de back-log aan te vullen met taken. De taken, die we van plan waren om voor die week te doen, dienden vervolgens in de kolom: “te doen” gezet te worden. Deze taken moesten vervolgens verduidelijkt worden, zodat elk teamlid begreep wat deze taken inhielden. Daarom diende elke taak, binnen het Trellobord, aan een aantal eisen te voldoen. Deze eisen waren: 
+De sprint planning gebeurde aan het begin van elke sprint(elke week)xxxxxxxx, en is bedoeld om de back-log aan te vullen met taken. De taken, die we van plan waren om voor die week te doen, dienden vervolgens in de kolom: “te doen” gezet te worden. Deze taken moesten vervolgens verduidelijkt worden, zodat elk teamlid begreep wat deze taken inhielden. Daarom diende elke taak, binnen het Trellobord, aan een aantal eisen te voldoen. Deze eisen waren: 
 
 * Elke taak een beknopte titel en beschrijving geven
 * Elke taak een doel, waarvan het belang beargumenteerd kon worden door elk groepslid. 
