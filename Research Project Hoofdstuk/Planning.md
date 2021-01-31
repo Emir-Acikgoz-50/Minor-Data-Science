@@ -43,3 +43,6 @@ De benoemde Retro Spective, Trellobord en Planning is te zien in de volgende lin
 | [Dealines](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Screenshots%20Overig/dealines.PNG)|
 | [Globale planning](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Screenshots%20Overig/globale%20planning.PNG)|
 
+
+De creatie van een duidelijke week- en project planning zorgde ervoor dat ik geen tunnel visie had tijdens dit project. Ik kon aan de slag met mijn taken en wist wanneer die af moesten zijn, hierdoor zorgde ik ervoor dat ik de groep niet in moeilijkheden bracht door vertragingen. Wat voorheen wel het geval was tijdens andere projecten.
+
