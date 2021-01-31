@@ -4,6 +4,8 @@ Omdat ik voor dit onderzoek gebruik heb gemaakt van vier verschillende methodes,
 Zoals eerder vermeld in het hoofdstuk [Data visualisation](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Data%20Preprocessing%20hoofdstuk/Data%20Visualization.md) heb de eerste 60% gebruikt voor het trainen van de data, hierbij ging het om de periode 2016-01-01 - 2018-01-01.
 De training set van 60% over de periode 2016-01-01 - 2018-01-01 geldt voor alle vier de methodes. De validatie set kreeg 20% van de data en de overige 20% ging naar de test set. Deze percentages heb ik gehanteerd omdat dit vaak voorkomende percentages zijn en om te voorkomen dat het model gaat underfitten en/of overfitten.
 
+Het trainen van het model realisseerde ik door gebruik te maken van de volgende commando's;
+
 * AR: `AR(train_data)`
 * ARMA: `ARMA(train_data, AR, MA)`
 * ARIMA: `ARIMA(train_data, AR, I, MA)`
