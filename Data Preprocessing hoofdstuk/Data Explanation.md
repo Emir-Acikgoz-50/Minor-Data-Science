@@ -1,11 +1,11 @@
 ## Data Explanation
 
 
-Voor het uitvoeren en ontwikkelen van het project hebben wij gebruik gemaakt van een dataset in een [Excel bestand](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Notebook%20Bewijzen/excel%20bestand.PNG) met daarin kolommen met de volgende gegevens: 
+Voor het uitvoeren en ontwikkelen van het project heb ik gebruik gemaakt van de dataset in een [Excel bestand](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Notebook%20Bewijzen/excel%20bestand.PNG) met daarin kolommen met de volgende gegevens: 
 
 **Procesdag**
 
-*Deze kolom geeft de datum aan in de periode 2015-01-02 en 2020-04-29*
+*Deze kolom weergeeft de datum per dag aan in de periode 2015-01-02 en 2020-04-29*
 
 **Cust_id **
 
@@ -21,4 +21,4 @@ Voor het uitvoeren en ontwikkelen van het project hebben wij gebruik gemaakt van
 
  
 
-Al deze informatie weergeven een totale van meer dan 500.000 rijen aan data. Tevens worden de klanten in de dataset weergegeven als ID nummer, dit om de privacy van de organisaties te beschermen waarvan de informatie beschikbaar is. 
+Al deze informatie weergeven een totale van meer dan 500.000 rijen aan data. Tevens worden de klanten in de dataset weergegeven als ID nummer, dit om de privacy van de organisaties te waarborgen waarvan de informatie beschikbaar is. 
