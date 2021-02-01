@@ -3,7 +3,7 @@
 Deze Minor ben ik begonnen zonder enige voorkennis wat betreft Data Science, daarom heb ik mijn kennis uitgebreid door in de literatuur van boeken tot videos te gaan duiken. Binnen het literatuuronderzoek heb ik veel geleerd en het geprobeerd juist toe te passen. 
 Om een inzicht te krijgen op Data Science heb ik elke week geluisterd en [aantekeningen]() gemaakt van de lessen op maandag. Naast de lessen heb ik me ook verdiept op het boek 'Introduction to Machine learning with python'
 
-### Hieronder volgt een Lijst de gebruikte literatuur die ik heb gebruikt om de modellen te kunnen creeren.
+### Hieronder volgt een Lijst met de gebruikte literatuur om de modellen te kunnen creeren.
 
 
 * Alkaline ml. (z.d.). Cross-validating your time series models — pmdarima 1.8.0 documentation. Geraadpleegd op 20 oktober 2020, van https://alkaline-ml.com/pmdarima/auto_examples/model_selection/example_cross_validation.html
