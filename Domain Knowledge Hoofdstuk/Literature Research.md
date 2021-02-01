@@ -79,14 +79,14 @@ Om een inzicht te krijgen op Data Science heb ik elke week geluisterd en [aantek
 * W3Schools. (z.d.). Python range() Function. Geraadpleegd op 20 oktober 2020, van https://www.w3schools.com/python/ref_func_range.asp
 
 
-### De literatuur hoe ik geleerd heb te coderen en de uitvoering ervan staan hieronder vermeld
+### De literatuur hoe ik geleerd heb te coderen en de uitvoering ervan 
 
  
 * Datacamp. (z.d.). DataCamp. Geraadpleegd op 1 september 2020, van https://www.datacamp.com/Jupyter notebook.(2020, 1 september). 
 
 * DataScience Jupyter notebook. Geraadpleegd op 1 september 2020, van http://datascience.hhs.nl/
 
-### De literatuur om een goed machine learning systeem te ontwikkelen voor de organisatie heb ik van de hieronder vermeldde linkjes achterhaald
+### De literatuur om een machine learning systeem te ontwikkelen voor de organisatie heb ik van de hieronder vermeldde linkjes achterhaald
 
 * Brownlee, J. (2019b, 10 november). 14 Different Types of Learning in Machine Learning. Geraadpleegd op 20 oktober 2020, van https://machinelearningmastery.com/types-of-learning-in-machine-learning/
 
