@@ -21,4 +21,6 @@ Voor het uitvoeren en ontwikkelen van het project heb ik gebruik gemaakt van de 
 
  
 
-Al deze informatie weergeven een totale van meer dan 500.000 rijen aan data. Tevens worden de klanten in de dataset weergegeven als ID nummer, dit om de privacy van de organisaties te waarborgen waarvan de informatie beschikbaar is. 
+Al deze informatie weergeven een totale van meer dan 500.000 rijen aan data. Tevens worden de klanten in de dataset weergegeven als ID nummer, dit om de privacy van de organisaties te waarborgen.
+
+Na dat de informatie binnen de dataset bekend was heb ik het meteen geplot om inzicht te kunnen creeren wat de huidige stand eigenlijk was, ik kwam uiteindelijk uit op deze rommelige [plot](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Notebook%20Bewijzen/plot%201.PNG) uit.
