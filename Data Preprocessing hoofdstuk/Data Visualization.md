@@ -85,10 +85,10 @@ residuals = data_diff - model_fit.fittedvalues
 print('Root Mean Squared Error:', np.sqrt(np.mean(residuals**2)))
 ```
 
-De plot resulteerde in de [Visualisatie SARIMA model](), 
+De plot resulteerde in de [Visualisatie SARIMA model](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Notebook%20Bewijzen/volledige%20sarima%20visualisatie.PNG). 
 
 
-Toch wilde ik dat het stukje in de [visualisatie waar de voorspellingen zichbaar zijn](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Notebook%20Bewijzen/visualisatie%20sarima.PNG) duidellijk werdt, daarom heb ik een visualisatie ingezoomed op alleen de voorspellingen  met de volgende commando;
+Toch wilde ik dat het stukje in de [visualisatie waar alleen de voorspellingen zichbaar zijn](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Notebook%20Bewijzen/visualisatie%20sarima.PNG) duidellijk werdt, daarom heb ik een visualisatie ingezoomed op alleen de voorspellingen  met de volgende commando;
 
 ```
 plt.figure(figsize=(20,8))
