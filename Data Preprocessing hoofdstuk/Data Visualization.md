@@ -37,5 +37,7 @@ X_test_values = data[split_index_test:]
 Omdat ik heb gefocust op de periode 2016-01-01 - 2020-01-01, heb ik gekozen om de eerste 2 jaar(2016-01-01 - 2018-01-01(60% van de data)) te gebruiken als Train set. In de train set wordt de data als het ware getraind in het model. De periode 2018-01-01 - 2019-01-01(20% van de data) gebruik ik voor de validatie set, binnen deze set wordt er getraind op ongeziene data en wordt de data beter getraind voor de uiteindelijke visualisatie. De periode 2019-01-01 - 2020-01-01, de overige 20% van de data, heb ik gebruikt voor de Test data, dit gedeelte wordt gebruikt als de ‘nieuwe’ data, om te zien hoe goed de voorspellingen het doen op data waarmee niet getraind is.
 
 
+Om de configuratie van het SARIMA model te realiseren heb ik de volgende commando gebruikt(In het hoofdstuk [xxxxxxxxxx]() staat duidelijk uitgelegd wat de configuratie inhoud en hoe het is uitgevoerd);
+
 
 
