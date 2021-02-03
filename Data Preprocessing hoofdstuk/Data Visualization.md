@@ -34,10 +34,11 @@ X_train_values = data[:split_index_val] # get the datetime values of X_train
 X_val_values = data[split_index_val:split_index_test]
 X_test_values = data[split_index_test:]
 ```
-Omdat ik heb gefocust op de periode 2016-01-01 - 2020-01-01, heb ik gekozen om de eerste 2 jaar(2016-01-01 - 2018-01-01(60% van de data)) te gebruiken als Train set. In de train set wordt de data als het ware getraind in het model. De periode 2018-01-01 - 2019-01-01(20% van de data) gebruik ik voor de validatie set, binnen deze set wordt er getraind op ongeziene data en wordt de data beter getraind voor de uiteindelijke visualisatie. De periode 2019-01-01 - 2020-01-01, de overige 20% van de data, heb ik gebruikt voor de Test data, dit gedeelte wordt gebruikt als de ‘nieuwe’ data, om te zien hoe goed de voorspellingen het doen op data waarmee niet getraind is.
+Omdat ik heb gefocust op de periode 2016-01-01 - 2020-01-01, heb ik gekozen om de eerste 2 jaar(2016-01-01 - 2018-01-01(60% van de data)) te gebruiken als Train set. In de train set wordt de data als het ware getraind in het model. De periode 2018-01-01 - 2019-01-01(20% van de data) gebruik ik voor de validatie set, binnen deze set wordt er getraind op ongeziene data en wordt de data beter getraind voor de uiteindelijke visualisatie. De periode 2019-01-01 - 2020-01-01, de overige 20% van de data, heb ik gebruikt voor de Test data, dit gedeelte wordt gebruikt als de ‘nieuwe’ data, om te zien hoe goed de voorspellingen het doen op data waarmee niet getraind is.Deze percentages heb ik zo gehanteerd omdat dit vaak voorkomende percentages zijn, het aansluit op gehele jaren en om te voorkomen dat het model gaat underfitten en/of overfitten.
 
 
-Om de configuratie van het SARIMA model te realiseren heb ik de volgende commando gebruikt(In het hoofdstuk [Configuring a model](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Predictive%20Analytics%20Hoofdstuk/Configuring%20a%20model.md) staat duidelijk uitgelegd wat de configuratie inhoud en hoe het is uitgevoerd);
+
+Om de configuratie van het SARIMA model te realiseren heb ik de volgende commando gebruikt, hierbij heb ik gekozen om de configuratie **0,1,1,12** te kiezen. Deze configuratie resulteerde het best en daarom is er voor die specifieke getallen gekozen.(In het hoofdstuk [Configuring a model](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Predictive%20Analytics%20Hoofdstuk/Configuring%20a%20model.md) staat duidelijk uitgelegd wat de configuratie inhoud en hoe het is uitgevoerd);
 
 ```
 #Configuratie SARIMA Model
@@ -48,7 +49,7 @@ my_seasonal_order = (0, 1, 1, 12)
 ``` 
 
 
-In de volgende stap heb ik de Cross validatie techniek 'Rolling window'toegepast en vervolgens de uiteindelijke code voor het SARIMA model uitgevoerd, dit heb ik gedaan door middel van de volgende commando;
+In de volgende stap heb ik de Cross validatie techniek 'Rolling window'toegepast en vervolgens de uiteindelijke code voor het SARIMA model uitgevoerd, dit heb ik gedaan door middel van de volgende commando(in het hoofdstuk [Evaluating a model](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Predictive%20Analytics%20Hoofdstuk/Evaluating%20a%20model.md) staat meer informatie over de gebruikte techniek);
 
 ```
 # Uitvoeren SARIMA + cross validatie : Rolling window
