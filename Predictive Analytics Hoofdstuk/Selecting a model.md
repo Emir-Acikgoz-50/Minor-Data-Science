@@ -1,6 +1,6 @@
 ## Selecting a model
 
-De dataset dat ik kreeg heb ik eerst bestudeerd en vervolgens [geplot](), de X-as was tijdsgebonden en op de Y-as stonden hoeveel pakketten er geleverd werden op een bepaalde dag. Na wat onderzoek te hebben gedaan op internet kwamen ik erachter dat voor dit tijdsgebonden data een dergelijke TimeSeries model goed uit kan pakken. Dit model heeft in totaal 11 verschillende soorten methodes om een voorspelling op te zetten.
+De dataset dat ik kreeg heb ik eerst bestudeerd en vervolgens [geplot](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Notebook%20Bewijzen/plot%201.PNG), de X-as was tijdsgebonden en op de Y-as stonden hoeveel pakketten er geleverd werden op een bepaalde dag. Na wat onderzoek te hebben gedaan op internet kwamen ik erachter dat voor dit tijdsgebonden data een dergelijke TimeSeries model goed uit kan pakken. Dit model heeft in totaal 11 verschillende soorten methodes om een voorspelling op te zetten.
 
 - Autoregression (AR)
 - Moving Average (MA)
