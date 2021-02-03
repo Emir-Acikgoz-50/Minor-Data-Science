@@ -5,9 +5,9 @@ Zoals vermeld in de voorgaande onderdelen binnen het hoofdstuk Predictive Analyt
 Hieronder volgen de linkjes naar mijn gemaakte plotten ;
 
 
-|[Visualisatie AR model]()|
+|[Visualisatie AR model](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Notebook%20Bewijzen/visualisatie%20AR%20model.PNG)|
 |:-----:|
-|[Visualisatie ARMA model]()|
-|[Visualisatie ARIMA model]()|
+|[Visualisatie ARMA model](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Notebook%20Bewijzen/Visualisatie%20ARMA%20model.PNG)|
+|[Visualisatie ARIMA model](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Notebook%20Bewijzen/visualisatie%20ARIMA%20model.PNG)|
 |[Visualisatie uiteindelijk SARIMA model model](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Notebook%20Bewijzen/visualisatie%20sarima.PNG) |
 |[Code Uiteindelijke SARIMA model](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Notebook%20Codes/SARIMA_model_klant_266_rolling_window_verschil.ipynb)|
