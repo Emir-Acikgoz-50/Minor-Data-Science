@@ -1,6 +1,6 @@
 ## Data Visualization
 
-Na dat ik de [Data Preparation]() voltooid had voor het SARIMA model diende ik het model om te gooien naar het verschil in aantal pakketten ten opzichte van de vorige dag in plaats van het werkelijke aantal pakketten, dit is gedaan om het model stationair te kunnen maken. Voor de uitvoering hiervan heb ik gebruik gemaakt van de volgende commando;
+Na dat ik de [Data Preparation](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Data%20Preprocessing%20hoofdstuk/Data%20Preparation.md) voltooid had voor het SARIMA model diende ik het model om te gooien naar het verschil in aantal pakketten ten opzichte van de vorige dag in plaats van het werkelijke aantal pakketten, dit is gedaan om het model stationair te kunnen maken. Voor de uitvoering hiervan heb ik gebruik gemaakt van de volgende commando;
 
 ```
 #Data Stationair maken
