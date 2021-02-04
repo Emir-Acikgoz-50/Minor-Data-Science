@@ -37,8 +37,8 @@ Om kennis op te bouwen op het gebied van programmeren in de taal Python, heb ik 
 
 ## Reflection Evaluation
 
-Voor het reflecteren op functioneren is er gebruik gemaakt van het ‘ STARR reflectie methode’.
-STARR staat voor ‘Situatie, Taak, Actie, Resultaat en Reflectie’. Binnen de methode wordt er terug gekeken naar wat er heeft afgespeeld en wordt er uiteiendelijk op gereflecteerd. Binnen het bestand wordt gekeken en gereflecteerd naar eigen inzet, leerdoelen en evealuatie op het groepsproject.
+Voor het reflecteren op functioneren heb ik gebruik gemaakt van het ‘ STARR reflectie methode’.
+STARR staat voor ‘Situatie, Taak, Actie, Resultaat en Reflectie’. Binnen de methode kijk ik terug naar wat er heeft afgespeeld en uiteiendelijk reflecteer ik er op. Binnen het bestand wordt gekeken en gereflecteerd naar eigen inzet, leerdoelen en evaluatie op het groepsproject.
 
 In de link hieronder wordt verwezen naar de inhoud het Hoofdstuk Reflectie
 
