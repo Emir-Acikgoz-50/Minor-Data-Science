@@ -1,13 +1,15 @@
 ## Data Visualization
 
-Na dat ik de [Data Preparation](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Data%20Preprocessing%20hoofdstuk/Data%20Preparation.md) voltooid had voor het SARIMA model diende ik het model om te gooien naar het verschil in aantal pakketten ten opzichte van de vorige dag in plaats van het werkelijke aantal pakketten, dit is gedaan om het model stationair te kunnen maken. Voor de uitvoering hiervan heb ik gebruik gemaakt van de volgende commando;
+Na dat ik de [Data Preparation](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Data%20Preprocessing%20hoofdstuk/Data%20Preparation.md) voltooid had voor het SARIMA model diende ik het model om te gooien naar het verschil in aantal pakketten ten opzichte van de vorige dag in plaats van het werkelijke aantal pakketten, dit is gedaan om het model stationair te kunnen maken. Datasets met trends of seizoenen, zijn niet stationair de trend- en seizoensinvloeden zullen de waarde van de tijdreeksen op verschillende tijds intervallen beïnvloeden. Daarom is het model ook stationair gemaakt. Dit diende te gebeuren bij de overstap van het ARMA naar ARIMA model.
+
+Voor de uitvoering hiervan heb ik gebruik gemaakt van de volgende commando;
 
 ```
 #Data Stationair maken
 data_diff.plot()
 ```
 
-Om het model zo efficiënt mogelijk te laten voorspellen, diende ik een keuze te maken hoe de data in een [Train, Validation & test set](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Notebook%20Bewijzen/train%20validate%20test%20set.PNG) gesplitst ging worden. De verdeling heb ik gedaan door middel van de volgende commando;
+Om het model zo efficiënt mogelijk te laten voorspellen en under- of overfitting te voorkomen , diende ik een keuze te maken hoe de data in een [Train, Validation & test set](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Notebook%20Bewijzen/train%20validate%20test%20set.PNG) gesplitst ging worden. De verdeling heb ik gedaan door middel van de volgende commando;
 
 ```
 #Train, Validation & Test Split
@@ -34,11 +36,11 @@ X_train_values = data[:split_index_val] # get the datetime values of X_train
 X_val_values = data[split_index_val:split_index_test]
 X_test_values = data[split_index_test:]
 ```
-Omdat ik heb gefocust op de periode 2016-01-01 - 2020-01-01, heb ik gekozen om de eerste 2 jaar(2016-01-01 - 2018-01-01(60% van de data)) te gebruiken als Train set. In de train set wordt de data als het ware getraind in het model. De periode 2018-01-01 - 2019-01-01(20% van de data) gebruik ik voor de validatie set, binnen deze set wordt er getraind op ongeziene data en wordt de data beter getraind voor de uiteindelijke visualisatie. De periode 2019-01-01 - 2020-01-01, de overige 20% van de data, heb ik gebruikt voor de Test data, dit gedeelte wordt gebruikt als de ‘nieuwe’ data, om te zien hoe goed de voorspellingen het doen op data waarmee niet getraind is.Deze percentages heb ik zo gehanteerd omdat dit vaak voorkomende percentages zijn, het aansluit op gehele jaren en om te voorkomen dat het model gaat underfitten en/of overfitten.
+Omdat ik heb gefocust op de periode 2016-01-01 - 2020-01-01, heb ik gekozen om de eerste 2 jaar(2016-01-01 - 2018-01-01(60% van de data)) te gebruiken als Train set. In de train set wordt de data als het ware getraind in het model. De periode 2018-01-01 - 2019-01-01(20% van de data) gebruik ik voor de validatie set, binnen deze set wordt er getraind op ongeziene data en wordt de data beter getraind voor de uiteindelijke visualisatie. De periode 2019-01-01 - 2020-01-01, de overige 20% van de data, heb ik gebruikt voor de Test data, dit gedeelte wordt gebruikt als de ‘nieuwe’ data, om te zien hoe goed de voorspellingen het doen op data waarmee niet getraind is. Deze percentages heb ik zo gehanteerd omdat dit vaak voorkomende percentages zijn, het aansluit op gehele jaren en om te voorkomen dat het model gaat underfitten en/of overfitten.
 
 
 
-Om de configuratie van het SARIMA model te realiseren heb ik de volgende commando gebruikt, hierbij heb ik gekozen om de configuratie **0,1,1,12** te kiezen. Deze configuratie resulteerde het best en daarom is er voor die specifieke getallen gekozen.(In het hoofdstuk [Configuring a model](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Predictive%20Analytics%20Hoofdstuk/Configuring%20a%20model.md) staat duidelijk uitgelegd wat de configuratie inhoud en hoe het is uitgevoerd);
+Om de configuratie van het SARIMA model te realiseren heb ik de volgende commando gebruikt, hierbij heb ik gekozen om de configuratie **0,1,1,12** te kiezen. Deze configuratie resulteerde het best en daarom heb ik voor die specifieke getallen gekozen.(In het hoofdstuk [Configuring a model](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Predictive%20Analytics%20Hoofdstuk/Configuring%20a%20model.md) staat duidelijk uitgelegd wat de configuratie inhoud en hoe ik het heb uitgevoerd);
 
 ```
 #Configuratie SARIMA Model
@@ -89,7 +91,7 @@ print('Root Mean Squared Error:', np.sqrt(np.mean(residuals**2)))
 De plot resulteerde in de [Visualisatie SARIMA model](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Notebook%20Bewijzen/volledige%20sarima%20visualisatie.PNG). 
 
 
-Toch wilde ik dat het stukje in de [visualisatie waar alleen de voorspellingen zichbaar zijn](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Notebook%20Bewijzen/visualisatie%20sarima.PNG) duidellijk werdt, daarom heb ik een visualisatie ingezoomed op alleen de voorspellingen  met de volgende commando;
+Toch wilde ik dat het stuk in de [visualisatie waar alleen de voorspellingen zichbaar zijn](https://github.com/Emir-Acikgoz-50/Minor-Data-Science/blob/main/Notebook%20Bewijzen/visualisatie%20sarima.PNG) duidellijk werd, daarom heb ik de visualisatie ingezoomed op alleen de voorspellingen met de volgende commando;
 
 ```
 plt.figure(figsize=(20,8))
