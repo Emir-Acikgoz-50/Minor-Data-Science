@@ -11,7 +11,7 @@
 ## Introductie
 
 Dit is een Persoonlijke Portfolio opgezet naar aanleiding van het Applied Data Science project.
-Tijdens deze Minor heb ik geprobeerd door middel van bestaande data voorspellingen te maken voor in de toekomst,wat ik heb gedaan en hoe het proces verliep wordt
+Tijdens deze Minor heb ik geprobeerd door middel van bestaande data voorspellingen te maken voor in de toekomst, wat ik heb gedaan en hoe het proces verliep wordt
 in dit document nader toegelicht voor geïnteresseerden.
 
 ## Inhoud
